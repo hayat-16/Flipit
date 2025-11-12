@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flip It</string>
+    <string name="txt_flip_it">FLIP IT</string>
+    <string name="txt_flip_now">Flip Now</string>
+    <string name="title_activity_toss">TossActivity</string>
+    <string name="txt_decision_pending">Decision Pending…⏳</string>
+    <string name="txt_winner">🏆 Winner: </string>
+    <string name="txt_try_flipping_again">Try Flipping Again!</string>
+</resources>
