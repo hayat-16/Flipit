@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302608293435",
+    "project_id": "flipit-ed170",
+    "storage_bucket": "flipit-ed170.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302608293435:android:cbf4ba5be961eb3f47061e",
+        "android_client_info": {
+          "package_name": "game.flip_it"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPkHFom5mM3K6oLf9rMvrWz1d6MwgGVz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
