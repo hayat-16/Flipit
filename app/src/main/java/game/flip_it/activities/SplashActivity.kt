@@ -27,7 +27,7 @@ class SplashActivity : AppCompatActivity() {
 
             // Transition to Home after 4 seconds
             Handler(Looper.getMainLooper()).postDelayed({
-                startActivity(Intent(this@SplashActivity, OnboardingActivity::class.java))
+                startActivity(Intent(this@SplashActivity, PermissionsActivity::class.java))
                 finish()
             }, 4000)
         }
